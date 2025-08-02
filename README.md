@@ -7,9 +7,9 @@
 ### Certificaciones
 
 <div align="center">
-  <img src="https://www.itsvoltapalermo.it/wp-content/uploads/2024/04/cisco.png" alt="Cisco CCNA" width="120" style="margin-right: 15px; border-radius: 50%;"/>
-  <img src="https://www.interlogica.it/wp-content/uploads/2022/06/eWTPX_v1.png" alt="eLearnSecurity eWPT" width="120" style="margin-right: 15px; border-radius: 50%;"/>
-  <img src="https://miit.edu.mu/wp-content/uploads/2023/08/logoaplus.png" alt="CompTIA A+" width="120" style="border-radius: 50%;"/>
+  <img src="https://www.itsvoltapalermo.it/wp-content/uploads/2024/04/cisco.png" alt="Cisco CCNA" width="120" style="margin-right: 30px; border-radius: 50%; vertical-align: middle;"/>
+  <img src="https://www.interlogica.it/wp-content/uploads/2022/06/eWTPX_v1.png" alt="eLearnSecurity eWPT" width="120" style="margin-right: 30px; border-radius: 50%; vertical-align: middle;"/>
+  <img src="https://miit.edu.mu/wp-content/uploads/2023/08/logoaplus.png" alt="CompTIA A+" width="120" style="border-radius: 50%; vertical-align: middle;"/>
 </div>
 
 ---
