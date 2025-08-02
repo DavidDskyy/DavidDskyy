@@ -7,7 +7,7 @@
 ### Certificaciones
 
 <div align="center">
-  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1637976249/ccna_60017385826812075430382.png" alt="Cisco CCNA" width="200" style="margin-right: 15px;"/>
+  <img src="https://scp.ac.cy/wp-content/uploads/2019/06/18.jpg" alt="Cisco CCNA" width="200" style="margin-right: 15px;"/>
   <img src="URL_DE_LA_IMAGEN_DE_EWPT" alt="eLearnSecurity eWPT" width="200" style="margin-right: 15px;"/>
   <img src="URL_DE_LA_IMAGEN_DE_COMPTIA" alt="CompTIA A+" width="200"/>
 </div>
