@@ -6,9 +6,11 @@
 
 ### Certifications
 
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-2E2E2E?style=for-the-badge&logo=cisco&logoColor=white)
-![eWPT](https://img.shields.io/badge/eLearnSecurity_eWPT-008000?style=for-the-badge&logo=elearnsecurity&logoColor=white)
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-FF4040?style=for-the-badge&logo=comptia&logoColor=white)
+<div align="center">
+  <img src="[URL_DE_LA_IMAGEN_DE_CCNA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Ftopic%2Fcisco-ccna%2F&psig=AOvVaw2ny53yFZ4gYEeIyDJzHVsC&ust=1754242368871000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJikoZzU7I4DFQAAAAAdAAAAABAX)" alt="Cisco CCNA" width="200" style="margin-right: 15px;"/>
+  <img src="URL_DE_LA_IMAGEN_DE_EWPT" alt="eLearnSecurity eWPT" width="200" style="margin-right: 15px;"/>
+  <img src="URL_DE_LA_IMAGEN_DE_COMPTIA" alt="CompTIA A+" width="200"/>
+</div>
 
 ---
 
