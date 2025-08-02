@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://www.itsvoltapalermo.it/wp-content/uploads/2024/04/cisco.png" alt="Cisco CCNA" width="120" style="margin-right: 15px; border-radius: 50%;"/>
   <img src="https://www.interlogica.it/wp-content/uploads/2022/06/eWTPX_v1.png" alt="eLearnSecurity eWPT" width="120" style="margin-right: 15px; border-radius: 50%;"/>
-  <img src="https://s3.amazonaws.com/jigyaasa_content_static/compTIA_a-Plus_exam_voucher_000wv1.webp" alt="CompTIA A+" width="120" style="border-radius: 50%;"/>
+  <img src="https://banner2.cleanpng.com/20181127/hiz/kisspng-comptia-server-plus-logo-organization-a-course-aleph-technologies-5bfd86d9c29274.653496311543341785797.jpg" alt="CompTIA A+" width="120" style="border-radius: 50%;"/>
 </div>
 
 ---
