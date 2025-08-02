@@ -4,10 +4,10 @@
 
 ---
 
-### Certifications
+### Certificaciones
 
 <div align="center">
-  <img src="[URL_DE_LA_IMAGEN_DE_CCNA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Ftopic%2Fcisco-ccna%2F&psig=AOvVaw2ny53yFZ4gYEeIyDJzHVsC&ust=1754242368871000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJikoZzU7I4DFQAAAAAdAAAAABAX)" alt="Cisco CCNA" width="200" style="margin-right: 15px;"/>
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1637976249/ccna_60017385826812075430382.png" alt="Cisco CCNA" width="200" style="margin-right: 15px;"/>
   <img src="URL_DE_LA_IMAGEN_DE_EWPT" alt="eLearnSecurity eWPT" width="200" style="margin-right: 15px;"/>
   <img src="URL_DE_LA_IMAGEN_DE_COMPTIA" alt="CompTIA A+" width="200"/>
 </div>
