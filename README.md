@@ -4,7 +4,7 @@
 
 ---
 
-### Certificaciones
+### Certifications
 
 <div align="center">
   <img src="https://www.itsvoltapalermo.it/wp-content/uploads/2024/04/cisco.png" alt="Cisco CCNA" width="120" style="margin-right: 30px; border-radius: 50%; vertical-align: middle;"/>
