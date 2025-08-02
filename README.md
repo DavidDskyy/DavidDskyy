@@ -29,8 +29,6 @@ I am a passionate student and professional in the field of **ethical hacking** a
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Penetration Testing Tools**
@@ -38,14 +36,6 @@ I am a passionate student and professional in the field of **ethical hacking** a
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7730?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-CC3333?style=for-the-badge&logo=nmap&logoColor=white)
-
-**Operating Systems**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-5C4D8A?style=for-the-badge&logo=kalilinux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-1A1A1A?style=for-the-badge&logo=arch-linux&logoColor=white)
-
----
 
 ### Contact
 
