@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://scp.ac.cy/wp-content/uploads/2019/06/18.jpg" alt="Cisco CCNA" width="120" style="margin-right: 15px; border-radius: 50%;"/>
-  <img src="URL_DE_LA_IMAGEN_DE_EWPT" alt="eLearnSecurity eWPT" width="120" style="margin-right: 15px; border-radius: 50%;"/>
+  <img src="https://www.interlogica.it/wp-content/uploads/2022/06/eWTPX_v1.png" alt="eLearnSecurity eWPT" width="120" style="margin-right: 15px; border-radius: 50%;"/>
   <img src="URL_DE_LA_IMAGEN_DE_COMPTIA" alt="CompTIA A+" width="120" style="border-radius: 50%;"/>
 </div>
 
