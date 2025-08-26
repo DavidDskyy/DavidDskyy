@@ -9,7 +9,8 @@
 <div align="center">
   <img src="https://www.itsvoltapalermo.it/wp-content/uploads/2024/04/cisco.png" alt="Cisco CCNA" width="120" style="margin-right: 30px; border-radius: 50%; vertical-align: middle;"/>
   <img src="https://www.interlogica.it/wp-content/uploads/2022/06/eWTPX_v1.png" alt="eLearnSecurity eWPT" width="120" style="margin-right: 30px; border-radius: 50%; vertical-align: middle;"/>
-  <img src="https://cdn.prod.website-files.com/64e5d9235951ea488bbccad9/666585823d673a3e8fc1f148_CompTIA%20A%2B.png" alt="CompTIA A+" width="120" style="border-radius: 50%; vertical-align: middle;"/>
+  <img src="https://brandlogo.org/wp-content/uploads/2025/05/CompTIA-A-Plus-Logo.png.webp" alt="CompTIA A+" width="120" style="border-radius: 50%; vertical-align: middle;"/>
+  <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA A+" width="120" style="border-radius: 50%; vertical-align: middle;"/>
 </div>
 
 ---
